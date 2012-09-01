@@ -1,8 +1,6 @@
 import pygame, sys, random
 from pygame.locals import *
 
-import sys
-
 pygame.init()
 pygame.display.set_caption("graphical representation of binary search trees")
 pygame.key.set_repeat(200, 20)
